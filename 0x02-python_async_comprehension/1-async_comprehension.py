@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-""" 1. Async Comprehensions
-"""
+""" Async Comprehensions """
 
 import asyncio
 from typing import List
